@@ -1,0 +1,56 @@
+.cabec{
+	background-image: -webkit-linear-gradient(#234254, #234254 60%, #21668e);
+    color:white;
+}
+
+.colu{
+	text-transform:uppercase
+}
+.ulss li{
+	width:50%;
+	height:30%;
+	display:black;
+	float:left;
+	list-style:none;
+}
+
+.categories .cats{
+	background: linear-gradient(#fff, #e0e0e0 );
+	color:white;
+	color:#072846;
+	text-transform:uppercase;
+	font-size:13px
+}
+.categories .cats2{
+	/*background: linear-gradient(#fff, #e0e0e0 );*/
+	background: linear-gradient(#3e8f3e, #69bd69 );
+	text-transform:uppercase;
+	font-size:15px;
+	text-align:center;
+	color:white;
+	
+}
+.categories .cats3{
+	background: linear-gradient(#3e8f3e, #69bd69 );
+	text-transform:uppercase;
+	font-size:15px;
+	text-align:center;	
+}
+.categories .cats4{
+	background: linear-gradient(#eb9316, #f7bf6e );
+	text-transform:uppercase;
+	font-size:15px;
+	text-align:center;
+	width: 100%;
+}
+.kk .cats5{
+	background: linear-gradient(#c12e2a, #c55350 );
+	text-transform:uppercase;
+	font-size:15px;
+	text-align:center;
+	width: 100%;
+}
+.categories h4{
+	text-align:center;
+	color:#265a88;
+}
